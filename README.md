@@ -26,7 +26,7 @@ The data was split into a train, validation, and test set based on the year of o
 ## Results
 The linear regression model performed the best on the validation data with a RMSE of 23.46 and R2 of 0.82. The random forest (RMSE: 26.05, R2: 0.78) and GBT (RMSE: 26.37, R2: 0.77) performed slightly worse.
 
-[Linear regresssion results here]
+![Graph showing the final predictions of linear regression on test set](lr-results.png)
 
 ## Resources
 https://www.kaggle.com/datasets/robervalt/sunspots
